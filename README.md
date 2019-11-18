@@ -12,8 +12,9 @@ Provides links to custom websites developed based on client-provided information
 - Group 01-04
 - Group 01-05 (not used)
 - Group 01-06
+- Group 01-07
 - Group 01-07 [Website](https://kdibben.github.io/group-7-help-app/)
-- Group 01-08
+- Group 01-08 [Group 08](https://jyothsna5268.github.io/group8-help-app/)
 
 ## Section 2
 
