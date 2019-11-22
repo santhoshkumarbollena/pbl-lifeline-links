@@ -7,7 +7,7 @@ Provides links to custom websites developed based on client-provided information
 ## Section 1
 
 - [Group 01-01](https://cweltonsmith.github.io/pbl-website/index.html)
-- Group 01-02
+- [Group 01-02](https://github.com/Rethima-Reddy/Help-app)
 - Group 01-03 (not used)
 - Group 01-04
 - Group 01-05 (not used)
