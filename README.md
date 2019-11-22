@@ -37,6 +37,3 @@ Provides links to custom websites developed based on client-provided information
 - Group 03-07
 - Group 03-08
 
-## Evaluation Criteria
-
-- Link
