@@ -24,7 +24,7 @@ Provides links to custom websites developed based on client-provided information
 
 ## Section 3
 
-- Group 03-01
+- Group 03-01 [Group 01](https://chinmayi98.github.io/help-app/)
 - Group 03-02 [Group 02](https://nikithakethireddy1996.github.io/help-app/)
 - Group 03-03
 - [Group 03-04](https://github.com/Sravani537520/Help_app/)
