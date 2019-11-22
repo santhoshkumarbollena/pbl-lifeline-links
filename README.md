@@ -19,13 +19,13 @@ Provides links to custom websites developed based on client-provided information
 ## Section 2
 
 - Group 02-01
-- [Group 02](https://aawajjoshi.github.io/pbl-lifeline/)
+- Group 02-02 [Group 02](https://aawajjoshi.github.io/pbl-lifeline/)
 - Group 02-03
 - Group 02-04
 - Group 02-05 (not used)
 - [Group 02-06](https://anil-bomma.github.io/pbl-help-app/)
 - Group 02-07
-- Group 02-08
+- Group 02-08 [Group-8](https://suma-gitrep.github.io/help-app/)
 
 ## Section 3
 
