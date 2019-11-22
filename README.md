@@ -24,7 +24,7 @@ Provides links to custom websites developed based on client-provided information
 - Group 02-04
 - Group 02-05 (not used)
 - [Group 02-06](https://anil-bomma.github.io/pbl-help-app/)
-- Group 02-07
+- Group 02-07 [help-app-07](https://prudhvi15.github.io/help-app-07/)
 - Group 02-08 [Group-8](https://suma-gitrep.github.io/help-app/)
 
 ## Section 3
