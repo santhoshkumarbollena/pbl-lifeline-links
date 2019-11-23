@@ -22,14 +22,14 @@ Provides links to custom websites developed based on client-provided information
 - Group 02-07 [help-app-07](https://prudhvi15.github.io/help-app-07/)
 - Group 02-08 [Group-8](https://suma-gitrep.github.io/help-app/)
 
-## Section 3
+## Section 4
 
-- Group 03-01 [Group 01](https://chinmayi98.github.io/help-app/)
-- Group 03-02 [Group 02](https://nikithakethireddy1996.github.io/help-app/)
-- [Group 03-03(https://prasu93.github.io/help-app/)
-- [Group 03-04](https://github.com/Sravani537520/Help_app/)
-- [Group 03-05](https://chetankudaravalli16.github.io/Help-app-05/)
-- [Group 03-06](https://gorantla96.github.io/group6/)
-- Group 03-07
-- Group 03-08 [Group-8](https://sushmita-rudra.github.io/help-app-08/)
+- Group 04-01 [Group 01](https://chinmayi98.github.io/help-app/)
+- Group 04-02 [Group 02](https://nikithakethireddy1996.github.io/help-app/)
+- [Group 04-03](https://prasu93.github.io/help-app/)
+- [Group 04-04](https://github.com/Sravani537520/Help_app/)
+- [Group 04-05](https://chetankudaravalli16.github.io/Help-app-05/)
+- [Group 04-06](https://gorantla96.github.io/group6/)
+- Group 04-07
+- Group 04-08 [Group-8](https://sushmita-rudra.github.io/help-app-08/)
 
