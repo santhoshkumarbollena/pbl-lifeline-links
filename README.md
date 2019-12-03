@@ -35,3 +35,4 @@ Provides links to custom websites developed based on client-provided information
 
 ## Scoring
 
+![Scoring](./scoring/ClientSideAppRubric.PNG)
