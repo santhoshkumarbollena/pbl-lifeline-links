@@ -35,4 +35,11 @@ Provides links to custom websites developed based on client-provided information
 
 ## Scoring
 
+Sites will be reviewed based on the following criteria. 
+
 ![Scoring](./scoring/ClientSideAppRubric.PNG)
+
+## Submitting Scores
+
+If performing a review, please go the [Word document](Client-Side-App-Rubric.docx) and click download to get a local copy. Edit the document to include your scores and comments and submit as requested.
+
