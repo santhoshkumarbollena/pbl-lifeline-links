@@ -41,5 +41,5 @@ Sites will be reviewed based on the following criteria.
 
 ## Submitting Scores
 
-If performing a review, please go the [Word document](Client-Side-App-Rubric.docx) and click download to get a local copy. Edit the document to include your scores and comments and submit as requested.
+If performing a review, please go the [Word document](./scoring/Client-Side-App-Rubric.docx) and click download to get a local copy. Edit the document to include your scores and comments and submit as requested.
 
