@@ -33,3 +33,5 @@ Provides links to custom websites developed based on client-provided information
 - Group 04-07
 - Group 04-08 [Group-8](https://sushmita-rudra.github.io/help-app-08/)
 
+## Scoring
+
