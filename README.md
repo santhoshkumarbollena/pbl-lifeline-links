@@ -27,7 +27,7 @@ Provides links to custom websites developed based on client-provided information
 - Group 04-01 [Group 01](https://chinmayi98.github.io/help-app/)
 - Group 04-02 [Group 02](https://nikithakethireddy1996.github.io/help-app/)
 - [Group 04-03](https://prasu93.github.io/help-app/)
-- [Group 04-04](https://github.com/Sravani537520/Help_app/)
+- [Group 04-04](https://sravani537520.github.io/Help_app/)
 - [Group 04-05](https://chetankudaravalli16.github.io/Help-app-05/)
 - [Group 04-06](https://gorantla96.github.io/group6/)
 - Group 04-07
