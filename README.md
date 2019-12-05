@@ -16,7 +16,7 @@ Provides links to custom websites developed based on client-provided information
 ## Section 2
 
 - Group 02-02 [Group 02](https://aawajjoshi.github.io/pbl-lifeline/)
-- Group 02-03
+- [Group 02-03](https://github.com/JacobTaylorNWMSU/HelpAppGroup3)
 - [Group 02-04](https://terry-woosley.github.io/help-app/)
 - [Group 02-06](https://anil-bomma.github.io/pbl-help-app/)
 - Group 02-07 [help-app-07](https://prudhvi15.github.io/help-app-07/)
