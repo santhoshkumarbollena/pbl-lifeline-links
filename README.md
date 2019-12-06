@@ -9,9 +9,9 @@ Provides links to custom websites developed based on client-provided information
 - [Group 01-01](https://cweltonsmith.github.io/pbl-website/index.html)
 - [Group 01-02](https://rethima-reddy.github.io/Help-app/) - credits 01-01
 - Group 01-04 [Group 04](https://dakotagrvtt.github.io/pbl-lifeline/)
-- Group 01-06 [Group 06](https://jeevanreddymure.github.io/Help/)
+- Group 01-06 [Group 06](https://jeevanreddymure.github.io/Help/) - credits 04 -01
 - Group 01-07 [Website](https://kdibben.github.io/group-7-help-app/)
-- Group 01-08 [Group 08](https://jyothsna5268.github.io/group8-help-app/)
+- Group 01-08 [Group 08](https://jyothsna5268.github.io/group8-help-app/) - credits 01 -01
 
 ## Section 2
 
