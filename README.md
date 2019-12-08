@@ -29,7 +29,7 @@ Provides links to custom websites developed based on client-provided information
 - [Group 04-03](https://prasu93.github.io/help-app/)
 - [Group 04-04](https://sravani537520.github.io/Help_app/)
 - [Group 04-05](https://chetankudaravalli16.github.io/Help-app-05/)
-- [Group 04-06](https://gorantla96.github.io/group6/)
+- [Group 04-06]- credits 01-01(https://gorantla96.github.io/group6/)
 - Group 04-07
 - Group 04-08 [Group-8](https://sushmita-rudra.github.io/help-app-08/)
 
